@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SMD_A1_Q1</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="quit_app">Quit app</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="gui_demo_21l_5799">GUI Demo 21L-5799</string>
+    <string name="todo">TODO</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+</resources>
